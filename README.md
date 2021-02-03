@@ -17,7 +17,7 @@
 1. Develop a robust application architecture
 2. Use an interface API to receive information from a developer's application
 3. Use abstract classes and methods
-4. Read data from a fole and store in an appropriate data structure
+4. Read data from a file and store it in an appropriate data structure
 5. Generate random numbers and work with Spring API
 
 ## Run
